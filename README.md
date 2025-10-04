@@ -1,7 +1,3 @@
-
-
-Markdown
-
 # 👋 Mehmet ERSOLAK | Veri Bilimi Portfolyosu
 
 Merhaba! Bu repo, veri bilimi alanında gerçekleştirdiğim projeleri, analizleri ve öğrendiğim yeni yetenekleri sergilemek amacıyla oluşturulmuştur. Amacım, veriyi kullanarak anlamlı çıktılar üretmek ve bu süreçteki adımları şeffaf bir şekilde paylaşmaktır.
