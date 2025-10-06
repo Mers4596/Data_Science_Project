@@ -34,4 +34,4 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Açıklama:** Dosyalar kısmında da göreceğiniz train ve test olarak ikiye ayrılmış EKG verilerini Analiz ettik. Train ve Test veri setlerini nasıl ayrılacağını baktık ve tabikide bir heatmap üzerinden yorumlamasını yaptık
 - **Kullanılan Teknolojiler:** `Python` 
 - **Veri Seti:** Dosayada Mevcuttur
-- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/EKG%20Veri%20Setinin%20Analizi/EKG%20Veri%20Setinin%20%C4%B0ncelenmesi.ipynbs)**
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/YSA%20%C4%B0le%20B%C4%B0na%20Enerji%20Verimlili%C4%9Fi/YSA%20Kullanarak%20Bina%20Enerji%20Verimlili%C4%9Fi%20Analizi.ipynb)**
