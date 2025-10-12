@@ -37,3 +37,9 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Kullanılan Teknolojiler:** `Python` 
 - **Veri Seti:** Dosayada Mevcuttur
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/YSA%20ile%20MNS%C4%B0T(el%20yaz%C4%B1s%C4%B1%20%20rakam)%20Veri%20Seti%20%C4%B0ncelemesi/YSA%20ile%20MNS%C4%B0T(el%20yaz%C4%B1s%C4%B1%20rakam)%20Veri%20Seti%20%C4%B0ncelemsi.ipynb)**
+
+  ### 🤖 Proje 5: K-MEANS KÜMELEME ALGORİTMASI İLE MÜŞTERİ ANALİZİ 
+- **Açıklama:** Veri setimizde bir şirketin müşterilerine ait müşteri numarası, cinsiyet, yaş, yıllık gelir ve harcama skoru öznitelikleri bulunmaktadır.  
+- **Kullanılan Teknolojiler:** `Python` 
+- **Veri Seti:** Dosayada Mevcuttur
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/K-means%20Algoritmas%C4%B1%20%C4%B0le%20M%C3%BC%C5%9Fteri%20Analizi/K-means%20Algoritmas%C4%B1%20%C4%B0le%20M%C3%BC%C5%9Fteri%20Analizi.ipynb)**
