@@ -24,9 +24,16 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Veri Seti:** Dosayada Mevcuttur
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/EKG%20Veri%20Setinin%20Analizi/EKG%20Veri%20Setinin%20%C4%B0ncelenmesi.ipynb)**
 
-### 🤖 Proje 3: YAPAY SİNİR AĞI OLUŞTURARAL BİNA ENERJİ VERİMLİLİĞİ ÖLÇÜMÜ
+### 🤖 Proje 3: YAPAY SİNİR AĞI OLUŞTURARAK BİNA ENERJİ VERİMLİLİĞİ ÖLÇÜMÜ
 
 - **Açıklama:** Elimizde binanın enerji verimliliğini etkileyen X verileri ve bunların sonucunda çıkan Y değişkenleri vardı veri setimizdeki bilgileri kullanarak Veri incelme, Veri temizliği, YSA oluşturma gibi adımların ardından bu tür sayısal veriler için uygun olan r2-score değerine baktık
 - **Kullanılan Teknolojiler:** `Python` 
 - **Veri Seti:** Dosayada Mevcuttur
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/YSA%20%C4%B0le%20B%C4%B0na%20Enerji%20Verimlili%C4%9Fi/YSA%20Kullanarak%20Bina%20Enerji%20Verimlili%C4%9Fi%20Analizi.ipynb)**
+
+### 🤖 Proje 4: YAPAY SİNİR AĞI İLE MNSİT(EL YAZISI RAKAMLAR) VERİ  SETİNİB ANALİZİ
+
+- **Açıklama:** Tensorflow.keras.dataset içerisinde bulunan MNSİT => El yazısı rakamlardan oluşan bir veri seti <= Bu veri setini YSA(Yapay Sinir Ağ) kullanarak analizini gerçekleştirdik 
+- **Kullanılan Teknolojiler:** `Python` 
+- **Veri Seti:** Dosayada Mevcuttur
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/YSA%20ile%20MNS%C4%B0T(el%20yaz%C4%B1s%C4%B1%20%20rakam)%20Veri%20Seti%20%C4%B0ncelemesi/YSA%20ile%20MNS%C4%B0T(el%20yaz%C4%B1s%C4%B1%20rakam)%20Veri%20Seti%20%C4%B0ncelemsi.ipynb)**
