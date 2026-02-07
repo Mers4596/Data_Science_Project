@@ -63,3 +63,22 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
   - 📊 Olimpiyatlarda Yaş Dinamikleri Analizi
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20120%20Years%20of%20Olympic%20History%20Data/Analyzing.ipynb)**
+
+### 🤖 Proje 7: TITANIC VERİ SETİ KEŞİFSEL VERİ ANALİZİ (EDA)
+
+- **Açıklama:** Titanic veri seti üzerinde yolcuların demografik özellikleri, sosyo-ekonomik durumları ve aile yapılarının hayatta kalma oranı üzerindeki etkilerini inceleyerek kapsamlı bir keşifsel veri analizi gerçekleştirdim. Veri temizleme, eksik veri analizi, özellik mühendisliği (feature engineering), korelasyon analizleri ve görselleştirme teknikleri kullanarak anlamlı veri içgörüleri çıkardım.
+
+- **Kullanılan Teknolojiler:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+
+- **Veri Seti:** Dosyada Mevcuttur
+
+- **Analiz Başlıkları:**
+  - 📊 Yaş Dağılımı ve Hayatta Kalma İlişkisi Analizi
+  - Cinsiyete Göre Hayatta Kalma Oranları
+  - 🎟️ Yolcu Sınıfı (Pclass) ve Sosyo-Ekonomik Durum Analizi
+  - 👨‍👩‍👧‍👦 Aile Büyüklüğü (FamilySize) ve Survival Dinamikleri
+  - 💰 Bilet Ücreti (Fare) Dağılımı ve Hayatta Kalma İlişkisi
+  - 📊 Korelasyon Analizi ve Çok Değişkenli Görselleştirme
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing_Titanic_Data_Sets/Analyzing.ipynb)**
+
