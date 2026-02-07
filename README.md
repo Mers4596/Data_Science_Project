@@ -82,3 +82,22 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing_Titanic_Data_Sets/Analyzing.ipynb)**
 
+### 🤖 Proje 8: WINE QUALITY VERİ SETİ KEŞİFSEL VERİ ANALİZİ (EDA)
+
+- **Açıklama:** Wine Quality veri seti üzerinde şarapların kimyasal ve fiziksel özelliklerinin kalite puanı üzerindeki etkilerini inceleyerek kapsamlı bir keşifsel veri analizi gerçekleştirdim. Veri temizleme, eksik veri analizi, korelasyon analizleri ve görselleştirme teknikleri kullanarak kaliteyi artıran ve düşüren faktörlere yönelik anlamlı veri içgörüleri elde ettim.
+
+- **Kullanılan Teknolojiler:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+- **Veri Seti:** Dosyada Mevcuttur
+
+- **Analiz Başlıkları:**
+  - 📊 Alkol Oranı (Alcohol) ve Kalite İlişkisi Analizi  
+  - ⚗️ Uçucu Asitlik (Volatile Acidity) ve Kalite Dinamikleri  
+  - 🧬 Sitrik Asit (Citric Acid) ve Asidite Dengesi Analizi  
+  - 🧪 Kükürt Dioksit Bileşenleri (Free & Total Sulfur Dioxide) Analizi  
+  - ⚖️ Yoğunluk (Density) ve Şeker–Alkol Dengesi İncelemesi  
+  - 🧫 pH ve Sabit Asitlik (Fixed Acidity) İlişkisi  
+  - 📊 Korelasyon Analizi ve Çok Değişkenli Görselleştirme  
+  - 📈 Quality Bazlı Dağılım ve Yoğunluk (KDE) Analizi  
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20Wine%20Quality%20Data/Analyzing.ipynb)**
