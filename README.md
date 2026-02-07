@@ -91,14 +91,13 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Veri Seti:** Dosyada Mevcuttur
 
 - **Analiz Başlıkları:**
-
-- 📊 Alkol Oranı (Alcohol) ve Kalite İlişkisi Analizi  
-- ⚗️ Uçucu Asitlik (Volatile Acidity) ve Kalite Dinamikleri  
-- 🧬 Sitrik Asit (Citric Acid) ve Asidite Dengesi Analizi  
-- 🧪 Kükürt Dioksit Bileşenleri (Free & Total Sulfur Dioxide) Analizi  
-- ⚖️ Yoğunluk (Density) ve Şeker–Alkol Dengesi İncelemesi  
-- 🧫 pH ve Sabit Asitlik (Fixed Acidity) İlişkisi  
-- 📊 Korelasyon Analizi ve Çok Değişkenli Görselleştirme  
-- 📈 Quality Bazlı Dağılım ve Yoğunluk (KDE) Analizi  
+  - 📊 Alkol Oranı (Alcohol) ve Kalite İlişkisi Analizi  
+  - ⚗️ Uçucu Asitlik (Volatile Acidity) ve Kalite Dinamikleri  
+  - 🧬 Sitrik Asit (Citric Acid) ve Asidite Dengesi Analizi  
+  - 🧪 Kükürt Dioksit Bileşenleri (Free & Total Sulfur Dioxide) Analizi  
+  - ⚖️ Yoğunluk (Density) ve Şeker–Alkol Dengesi İncelemesi  
+  - 🧫 pH ve Sabit Asitlik (Fixed Acidity) İlişkisi  
+  - 📊 Korelasyon Analizi ve Çok Değişkenli Görselleştirme  
+  - 📈 Quality Bazlı Dağılım ve Yoğunluk (KDE) Analizi  
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20Wine%20Quality%20Data/Analyzing.ipynb)**
