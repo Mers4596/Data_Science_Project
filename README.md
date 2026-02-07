@@ -43,3 +43,23 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Kullanılan Teknolojiler:** `Python` 
 - **Veri Seti:** Dosayada Mevcuttur
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/K-means%20Algoritmas%C4%B1%20%C4%B0le%20M%C3%BC%C5%9Fteri%20Analizi/K-means%20Algoritmas%C4%B1%20%C4%B0le%20M%C3%BC%C5%9Fteri%20Analizi.ipynb)**
+
+
+### 🤖 Proje 6: OLİMPİYAT VERİ SETİ KEŞİFSEL VERİ ANALİZİ (EDA)
+
+- **Açıklama:** Olimpiyat veri seti üzerinde sporcu yaşı, boy, kilo, madalya dağılımı ve ülke bazlı performans metriklerini inceleyerek kapsamlı bir keşifsel veri analizi gerçekleştirdim. Korelasyon analizleri, zaman serisi yorumları ve görselleştirme teknikleri kullanarak veri içgörüleri çıkardım.
+
+- **Kullanılan Teknolojiler:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+
+- **Veri Seti:** Dosayada Mevcuttur
+
+- **Analiz Başlıkları:**
+  - 📊 Yaş, Boy ve Kilo Arasındaki İlişkiler: Korelasyon ve Doğrusal Analiz
+  - Olimpiyatlarda Cinsiyet Dengesi
+  - 🏟️ Olimpiyat Döngüsünün Tarihsel Dönüşümü
+  - 🏅 Olimpiyat Tarihinde Küresel Spor Dominasyonu
+  - 📊 En Çok Madalya Kazanan İlk 20 Ülke: Madalya Türü Dağılımı Analizi
+  - 🏊 Individual Greatness: Olimpiyat Efsaneleri Analizi
+  - 📊 Olimpiyatlarda Yaş Dinamikleri Analizi
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20120%20Years%20of%20Olympic%20History%20Data/Analyzing.ipynb)**
