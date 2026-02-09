@@ -117,8 +117,7 @@ Dönüşümler:
     
 *   Yıl bilgisi ayrı kolon olarak üretildi
     
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   df_clean['Year'] = df_clean['Last Updated'].dt.year   `
+  df_clean['Year'] = df_clean['Last Updated'].dt.year   
 
 🔎 Keşifsel Veri Analizi (EDA)
 ------------------------------
@@ -200,16 +199,14 @@ Yapılan işlemler:
 *   Milyon ölçeğine normalize edildi
     
 *   Sayısal encoding kolonu oluşturuldu
-    
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   df_clean['Genres Encoded'] = df_clean['Genres'].map(main_genres_encoded)   `
+df_clean['Genres Encoded'] = df_clean['Genres'].map(main_genres_encoded) 
 
 💾 Çıktı Alma
 -------------
 
 Temizlenmiş veri seti CSV olarak dışarı aktarıldı:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   df_clean.to_csv("ml_ready_dataset.csv", index=False)   `
+df_clean.to_csv("ml_ready_dataset.csv", index=False) 
 
 Bu çıktı, makine öğrenmesi projelerinde doğrudan kullanılabilecek formata getirilmiştir.
 
