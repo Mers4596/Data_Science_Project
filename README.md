@@ -101,3 +101,28 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
   - 📈 Quality Bazlı Dağılım ve Yoğunluk (KDE) Analizi  
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20Wine%20Quality%20Data/Analyzing.ipynb)**
+
+### 🤖 Proje 9: GOOGLE PLAY APPS VERİ SETİ KEŞİFSEL VERİ ANALİZİ (EDA)
+
+- **Açıklama:** Google Play Store uygulama veri seti üzerinde uygulamaların kategori, indirilme sayısı, boyut, fiyat, puan ve kullanıcı etkileşim metriklerinin performans üzerindeki etkilerini inceleyerek kapsamlı bir keşifsel veri analizi gerçekleştirdim. Veri temizleme, veri tipi dönüşümleri, eksik veri analizi, kategorik–sayısal değişken incelemeleri ve görselleştirme teknikleri kullanarak uygulama başarısını etkileyen faktörlere yönelik anlamlı veri içgörüleri elde ettim. Ayrıca veri seti makine öğrenmesi modellerine hazır hale getirilmiştir.
+
+- **Kullanılan Teknolojiler:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+- **Veri Seti:** Dosyada Mevcuttur
+
+- **Analiz Başlıkları:**
+  - 📊 Kategori Bazlı Uygulama Dağılımı Analizi
+  - ⭐ Rating (Puan) Dağılımı ve Başarı İlişkisi
+  - 📥 İndirilme Sayısı (Installs) ve Popülerlik Analizi
+  - 💬 Yorum Sayısı (Reviews) ve Kullanıcı Etkileşimi İncelemesi
+  - 💰 Ücretli vs Ücretsiz Uygulama Karşılaştırması
+  - 📏 Uygulama Boyutu (Size) ve Performans İlişkisi
+  - 🧒 Content Rating (İçerik Derecelendirmesi) Analizi
+  - 📅 Güncelleme Tarihi (Last Updated) ve Güncellik İncelemesi
+  - 🤖 Android Versiyon Uyumluluk Analizi
+  - 📊 Korelasyon Analizi ve Çok Değişkenli Görselleştirme
+  - 📈 Rating & Installs İlişkisi Dağılım Analizi
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20Google%20Play%20Apps/Analyzing.ipynb)**
+
+
