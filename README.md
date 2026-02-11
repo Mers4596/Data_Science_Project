@@ -125,4 +125,12 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Analyzing%20Google%20Play%20Apps/Analyzing.ipynb)**
 
+### 🤖 Proje 10: STUDY HOURS MACHINE LEARNING
 
+- **Açıklama:** Simple Lineer Regresyon ve Multiple Lineer Regresyon modelleri uygulanırken izlenmesi gereken adımlar sıralı ve sistematik bir şekilde ele alınmıştır. Her iki yöntemin kurulumu, veri hazırlama süreci, modelin eğitilmesi ve performans değerlendirme aşamaları düzenli kod blokları ile gerçekleştirilmiştir. Bununla birlikte, iki regresyon türü arasındaki yapısal ve işlevsel farklar da kod örnekleri üzerinden karşılaştırmalı olarak incelenmiştir. Böylece, tek bağımsız değişkenli model ile birden fazla bağımsız değişken içeren modelin kullanım senaryoları, avantajları ve sonuçlara etkisi açık ve anlaşılır bir biçimde ortaya konmuştur.
+
+- **Kullanılan Teknolojiler:** Python, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+
+- **Veri Seti:** Dosyada Mevcuttur
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/tree/main/StudyHoursMachineLeraning)**
