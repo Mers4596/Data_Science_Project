@@ -134,3 +134,39 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 - **Veri Seti:** Dosyada Mevcuttur
 
 - **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/tree/main/StudyHoursMachineLeraning)**
+
+### 🤖 Proje 11:   XGBOOST VE PROPHET KARŞILAŞTIRMALI ZAMAN SERISI 
+
+- **Açıklama:** 
+  Bu projede 2015–2018 yılları arasındaki satış verileri kullanılarak  
+  **aylık satış tahmini** yapılmıştır.
+
+  Amaç, gelecek ayın toplam satış miktarını tahmin etmek ve  
+  farklı model yaklaşımlarının performansını karşılaştırmaktır.
+
+  Bu kapsamda:
+
+    - Baseline (naive) model
+    - XGBoost (feature-based makine öğrenmesi)
+    - Prophet (additive zaman serisi modeli)
+
+    aynı veri üzerinde test edilmiştir.
+
+    Sonuçlar, küçük ve güçlü sezonluk içeren veri setlerinde  
+    model seçiminin kritik olduğunu ve walk-forward validation’ın  
+    gerçekçi performans ölçümü için önemli olduğunu göstermiştir.
+
+- **Kullanılan Teknolojiler:** ## 
+    - **Python** → Veri analizi ve modelleme dili  
+    - **Pandas** → Veri temizleme ve zaman serisi dönüşümleri  
+    - **NumPy** → Matematiksel işlemler ve feature hesaplamaları  
+    - **Matplotlib / Seaborn** → Veri görselleştirme  
+    - **XGBoost** → Feature-based makine öğrenmesi modeli  
+    - **Prophet** → Additive zaman serisi modeli  
+    - **Scikit-learn** → Model değerlendirme metrikleri (MAPE vb.)  
+    - **Jupyter Notebook** → Analiz ve dokümantasyon ortamı  
+    Bu araçlar birlikte kullanılarak uçtan uca zaman serisi tahmin süreci gerçekleştirilmiştir.
+
+- **Veri Seti:** Dosyada Mevcuttur
+
+- **🔗 [Projeye Göz Atın](https://github.com/Mers4596/Data_Science_Project/blob/main/Sat%C4%B1%C5%9F%20Analizi/XGBoost%20ve%20Prophet%20Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1%20Zaman%20Serisi%20Analizi.ipynb)** 
