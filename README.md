@@ -173,13 +173,13 @@ Bu bölümde, tamamladığım veya üzerinde çalıştığım projelerin bir lis
 
 ### 🤖 Proje 12: ENERGY CONSUMPTION 
 
-- **Açıklama:** Bu veri setinde yüksek korelasyona sahip değişkenlerin model eğitim sürecinden önce elimine edilmemesi durumunda ortaya çıkabilecek etkiler bu çalışmada incelenmiştir. Araştırma süreci iki aşamalı (Part 1 ve Part 2) olarak yapılandırılmıştır. Her iki aşamada da çoklu doğrusal bağlantının (multicollinearity) model performansı üzerindeki yansımalarını gözlemleyebilmek amacıyla farklı doğrusal regresyon temelli yöntemler uygulanmıştır.
-Bu kapsamda, Doğrusal Regresyon (Linear Regression) temel karşılaştırma modeli olarak kullanılmış; düzenlileştirme (regularization) yaklaşımlarının etkisini analiz edebilmek için ise LassoCV, RidgeCV ve ElasticNetCV algoritmaları ile deneysel çalışmalar yürütülmüştür. Elde edilen bulgular doğrultusunda, yüksek korelasyonlu değişkenlerin model katsayıları, genelleme performansı ve hata metrikleri üzerindeki etkileri karşılaştırmalı olarak değerlendirilmiştir.
+- **Açıklama:** Bu veri setinde yüksek korelasyona sahip değişkenlerin model eğitim sürecinden önce elimine edilmemesi durumunda ortaya çıkabilecek etkiler bu çalışmada incelenmiştir. Araştırma süreci iki aşamalı (Part 1 ve Part 2) olarak yapılandırılmıştır. Her iki aşamada da çoklu doğrusal bağlantının (multicollinearity) model performansı üzerindeki yansımalarını gözlemleyebilmek amacıyla farklı doğrusal regresyon temelli yöntemler uygulanmıştır. 
+- Bu kapsamda, Doğrusal Regresyon (Linear Regression) temel karşılaştırma modeli olarak kullanılmış; düzenlileştirme (regularization) yaklaşımlarının etkisini analiz edebilmek için ise LassoCV, RidgeCV ve ElasticNetCV algoritmaları ile deneysel çalışmalar yürütülmüştür. Elde edilen bulgular doğrultusunda, yüksek korelasyonlu değişkenlerin model katsayıları, genelleme performansı ve hata metrikleri üzerindeki etkileri karşılaştırmalı olarak değerlendirilmiştir.
 
 - **Kullanılan Teknolojiler:** Python, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
-    -scikit-learn / linear_model: LinearRegression, LassoCV, RidgeCV, ElasticNetCV
-    -scikit-learn / metrics: r2_score, mean_absolute_error, mean_squared_error
-    -scikit-learn / model_selection: cross_val_score, KFold 
+    - scikit-learn / linear_model: LinearRegression, LassoCV, RidgeCV, ElasticNetCV
+    - scikit-learn / metrics: r2_score, mean_absolute_error, mean_squared_error
+    - scikit-learn / model_selection: cross_val_score, KFold 
 
 - **Veri Seti:** Dosyada Mevcuttur
 
